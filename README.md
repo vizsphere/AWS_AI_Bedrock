@@ -2,6 +2,10 @@
 
 A C# console application for interacting with AWS Bedrock's DeepSeek V3 model using the OpenAI SDK.
 
+
+https://github.com/user-attachments/assets/07b6db91-1704-44b9-ad5b-f6e0c61a01fa
+
+
 ## Prerequisites
 
 - .NET 8.0+
