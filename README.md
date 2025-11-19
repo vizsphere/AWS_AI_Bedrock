@@ -32,10 +32,3 @@ A C# console application for interacting with AWS Bedrock's DeepSeek V3 model us
 ## Usage
 
 Enter your questions at the `Q:` prompt. Press Ctrl+C to exit.
-
-## Configuration
-
-Modify in code:
-- **Endpoint**: AWS region (default: eu-west-2)
-- **Model**: `deepseek.v3-v1:0`
-- **Context**: System prompt
